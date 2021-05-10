@@ -17,3 +17,9 @@ Greater Flamingo = Phoenicopterus roseus
 Lesser Flamingo = Phoeniconaias minor
 
 Chilean Flamingo = Phoenicopterus chilensis
+
+James's flamingo = Phoenicoparrus jamesi
+
+Andean flamingo = Phoenicoparrus andinus
+
+American flamingo = Phoenicopterus ruber
